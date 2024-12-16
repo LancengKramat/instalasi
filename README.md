@@ -5,7 +5,6 @@ wget https://raw.githubusercontent.com/syntax-err0rr/Root-VPS/main/root.sh && ch
 ```
 
 ## KUNCI ROOT :
-
 nano /etc/ssh/sshd_config
 systemctl restart ssh
 ```
